@@ -50,7 +50,7 @@ Select
 
             
     From series
-    WHERE title LIKE '%Th%'
+    WHERE title LIKE '%th%'
 ;
 
 Select
